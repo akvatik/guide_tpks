@@ -1,0 +1,15 @@
+{
+  "status": "unconfirmed",
+  "repository": "https://github.com/akvatik/guide_tpks",
+  "course": "Технология программирования кибернетических систем",
+  "teacher": "Козырев Владимир Петрович",
+  "topic": null,
+  "team": [],
+  "deadlines": [],
+  "reference_project": {
+    "origin": "https://github.com/kbrylkina/tpks",
+    "paths": ["docs", "pdf", "README.md", "notes/04_dpm_platform_v.md"],
+    "status": "inherited-example-not-current-assignment"
+  },
+  "note": "Пользователь предоставил репозиторий для подготовки помощника. Тема, команда, даты и задание его проекта ещё не подтверждены. Не подставлять сведения команды из унаследованных документов."
+}

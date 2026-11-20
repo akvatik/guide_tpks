@@ -2,6 +2,8 @@
 ~$*
 *.tmp
 .~lock.*
+__pycache__/
+*.pyc
 
 # LaTeX
 docs/build/
